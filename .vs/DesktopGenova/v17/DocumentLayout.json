@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tiger\\source\\repos\\DesktopGenova\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E675EEC-8CDB-4CFC-90DB-D2B9009A9204}|DesktopGenova\\DesktopGenova.csproj|c:\\users\\tiger\\source\\repos\\desktopgenova\\desktopgenova\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E675EEC-8CDB-4CFC-90DB-D2B9009A9204}|DesktopGenova\\DesktopGenova.csproj|solutionrelative:desktopgenova\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E675EEC-8CDB-4CFC-90DB-D2B9009A9204}|DesktopGenova\\DesktopGenova.csproj|C:\\Users\\tiger\\source\\repos\\DesktopGenova\\desktopgenova\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E675EEC-8CDB-4CFC-90DB-D2B9009A9204}|DesktopGenova\\DesktopGenova.csproj|solutionrelative:desktopgenova\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E675EEC-8CDB-4CFC-90DB-D2B9009A9204}|DesktopGenova\\DesktopGenova.csproj|C:\\Users\\tiger\\source\\repos\\DesktopGenova\\desktopgenova\\abrirchamado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E675EEC-8CDB-4CFC-90DB-D2B9009A9204}|DesktopGenova\\DesktopGenova.csproj|solutionrelative:desktopgenova\\abrirchamado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E675EEC-8CDB-4CFC-90DB-D2B9009A9204}|DesktopGenova\\DesktopGenova.csproj|C:\\Users\\tiger\\source\\repos\\DesktopGenova\\desktopgenova\\abrirchamado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E675EEC-8CDB-4CFC-90DB-D2B9009A9204}|DesktopGenova\\DesktopGenova.csproj|solutionrelative:desktopgenova\\abrirchamado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E675EEC-8CDB-4CFC-90DB-D2B9009A9204}|DesktopGenova\\DesktopGenova.csproj|C:\\Users\\tiger\\source\\repos\\DesktopGenova\\desktopgenova\\cadastrarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E675EEC-8CDB-4CFC-90DB-D2B9009A9204}|DesktopGenova\\DesktopGenova.csproj|solutionrelative:desktopgenova\\cadastrarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E675EEC-8CDB-4CFC-90DB-D2B9009A9204}|DesktopGenova\\DesktopGenova.csproj|C:\\Users\\tiger\\source\\repos\\DesktopGenova\\desktopgenova\\historicochamados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E675EEC-8CDB-4CFC-90DB-D2B9009A9204}|DesktopGenova\\DesktopGenova.csproj|solutionrelative:desktopgenova\\historicochamados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E675EEC-8CDB-4CFC-90DB-D2B9009A9204}|DesktopGenova\\DesktopGenova.csproj|C:\\Users\\tiger\\source\\repos\\DesktopGenova\\desktopgenova\\cadastrarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E675EEC-8CDB-4CFC-90DB-D2B9009A9204}|DesktopGenova\\DesktopGenova.csproj|solutionrelative:desktopgenova\\cadastrarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E675EEC-8CDB-4CFC-90DB-D2B9009A9204}|DesktopGenova\\DesktopGenova.csproj|C:\\Users\\tiger\\source\\repos\\DesktopGenova\\desktopgenova\\loginusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E675EEC-8CDB-4CFC-90DB-D2B9009A9204}|DesktopGenova\\DesktopGenova.csproj|solutionrelative:desktopgenova\\loginusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E675EEC-8CDB-4CFC-90DB-D2B9009A9204}|DesktopGenova\\DesktopGenova.csproj|C:\\Users\\tiger\\source\\repos\\DesktopGenova\\desktopgenova\\loginusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E675EEC-8CDB-4CFC-90DB-D2B9009A9204}|DesktopGenova\\DesktopGenova.csproj|solutionrelative:desktopgenova\\loginusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E675EEC-8CDB-4CFC-90DB-D2B9009A9204}|DesktopGenova\\DesktopGenova.csproj|C:\\Users\\tiger\\source\\repos\\DesktopGenova\\desktopgenova\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E675EEC-8CDB-4CFC-90DB-D2B9009A9204}|DesktopGenova\\DesktopGenova.csproj|solutionrelative:desktopgenova\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E675EEC-8CDB-4CFC-90DB-D2B9009A9204}|DesktopGenova\\DesktopGenova.csproj|C:\\Users\\tiger\\source\\repos\\DesktopGenova\\desktopgenova\\profile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E675EEC-8CDB-4CFC-90DB-D2B9009A9204}|DesktopGenova\\DesktopGenova.csproj|solutionrelative:desktopgenova\\profile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tiger\\source\\repos\\DesktopGenova\\DesktopGenova\\Program.cs",
+              "RelativeDocumentMoniker": "DesktopGenova\\Program.cs",
+              "ToolTip": "C:\\Users\\tiger\\source\\repos\\DesktopGenova\\DesktopGenova\\Program.cs",
+              "RelativeToolTip": "DesktopGenova\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T18:47:53.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Profile.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tiger\\source\\repos\\DesktopGenova\\DesktopGenova\\Profile.Designer.cs",
+              "RelativeDocumentMoniker": "DesktopGenova\\Profile.Designer.cs",
+              "ToolTip": "C:\\Users\\tiger\\source\\repos\\DesktopGenova\\DesktopGenova\\Profile.Designer.cs",
+              "RelativeToolTip": "DesktopGenova\\Profile.Designer.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAkwKQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T19:30:14.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Profile.cs",
+              "DocumentMoniker": "C:\\Users\\tiger\\source\\repos\\DesktopGenova\\DesktopGenova\\Profile.cs",
+              "RelativeDocumentMoniker": "DesktopGenova\\Profile.cs",
+              "ToolTip": "C:\\Users\\tiger\\source\\repos\\DesktopGenova\\DesktopGenova\\Profile.cs",
+              "RelativeToolTip": "DesktopGenova\\Profile.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwBgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T19:28:57.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Profile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tiger\\source\\repos\\DesktopGenova\\DesktopGenova\\Profile.cs",
+              "RelativeDocumentMoniker": "DesktopGenova\\Profile.cs",
+              "ToolTip": "C:\\Users\\tiger\\source\\repos\\DesktopGenova\\DesktopGenova\\Profile.cs [Design]",
+              "RelativeToolTip": "DesktopGenova\\Profile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T19:28:42.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HistoricoChamados.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tiger\\source\\repos\\DesktopGenova\\DesktopGenova\\HistoricoChamados.cs",
+              "RelativeDocumentMoniker": "DesktopGenova\\HistoricoChamados.cs",
+              "ToolTip": "C:\\Users\\tiger\\source\\repos\\DesktopGenova\\DesktopGenova\\HistoricoChamados.cs [Design]",
+              "RelativeToolTip": "DesktopGenova\\HistoricoChamados.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T19:28:14.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AbrirChamado.cs",
+              "DocumentMoniker": "C:\\Users\\tiger\\source\\repos\\DesktopGenova\\DesktopGenova\\AbrirChamado.cs",
+              "RelativeDocumentMoniker": "DesktopGenova\\AbrirChamado.cs",
+              "ToolTip": "C:\\Users\\tiger\\source\\repos\\DesktopGenova\\DesktopGenova\\AbrirChamado.cs",
+              "RelativeToolTip": "DesktopGenova\\AbrirChamado.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T19:26:47.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AbrirChamado.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tiger\\source\\repos\\DesktopGenova\\DesktopGenova\\AbrirChamado.cs",
+              "RelativeDocumentMoniker": "DesktopGenova\\AbrirChamado.cs",
+              "ToolTip": "C:\\Users\\tiger\\source\\repos\\DesktopGenova\\DesktopGenova\\AbrirChamado.cs [Design]",
+              "RelativeToolTip": "DesktopGenova\\AbrirChamado.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T19:25:47.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\tiger\\source\\repos\\DesktopGenova\\DesktopGenova\\LoginUsuario.cs",
+              "RelativeDocumentMoniker": "DesktopGenova\\LoginUsuario.cs",
+              "ToolTip": "C:\\Users\\tiger\\source\\repos\\DesktopGenova\\DesktopGenova\\LoginUsuario.cs",
+              "RelativeToolTip": "DesktopGenova\\LoginUsuario.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAQwGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T17:38:51.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginUsuario.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tiger\\source\\repos\\DesktopGenova\\DesktopGenova\\LoginUsuario.cs",
+              "RelativeDocumentMoniker": "DesktopGenova\\LoginUsuario.cs",
+              "ToolTip": "C:\\Users\\tiger\\source\\repos\\DesktopGenova\\DesktopGenova\\LoginUsuario.cs [Design]",
+              "RelativeToolTip": "DesktopGenova\\LoginUsuario.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T17:38:47.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CadastrarUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\tiger\\source\\repos\\DesktopGenova\\DesktopGenova\\CadastrarUsuario.cs",
+              "RelativeDocumentMoniker": "DesktopGenova\\CadastrarUsuario.cs",
+              "ToolTip": "C:\\Users\\tiger\\source\\repos\\DesktopGenova\\DesktopGenova\\CadastrarUsuario.cs",
+              "RelativeToolTip": "DesktopGenova\\CadastrarUsuario.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAQwH4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T17:37:44.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CadastrarUsuario.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tiger\\source\\repos\\DesktopGenova\\DesktopGenova\\CadastrarUsuario.cs",
+              "RelativeDocumentMoniker": "DesktopGenova\\CadastrarUsuario.cs",
+              "ToolTip": "C:\\Users\\tiger\\source\\repos\\DesktopGenova\\DesktopGenova\\CadastrarUsuario.cs [Design]",
+              "RelativeToolTip": "DesktopGenova\\CadastrarUsuario.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T17:37:38.393Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
